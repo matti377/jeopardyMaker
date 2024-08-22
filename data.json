@@ -347,4 +347,160 @@
         "text": "Spill: Mir soen een Lëtzebuergescht Sprëchwuert an een aus der Equipp, dei wees waat et bedeit, leeft an d’Mëtt an schleit mam Lëffel op d’Deppen. Wann hien et richteg erklärt kritt d’Equipp 50 Punkten: Léier keen aalen Aaf grimassen schneiden, Wann et dem Iesel ze wuel ass geet en op d’Ais danzen, Ech hunn een op der Pan, Ech hunn deem mol gewissen, wou den Bock d’Lach huet, Mir waaren doheem net mat Zoossiss ugestréckt, Noom Ausfluch haat ech d’Schong voll féiss, Een Aaf mécht der honnert, Quetschen och, D’Madamm war gerëscht ewei en Krechtbeemschen, Deen Hutt geet der ewéi der Kou en Suedel",
         "answer": ""
     }
+        {
+        "category": "Bartreng",
+        "points": 100,
+        "text": "Wie heißt der Basketballverein in Bartreng?",
+        "answer": "Sparta Bartreng"
+    },
+    {
+        "category": "Sport",
+        "points": 200,
+        "text": "Nenne 5 Sportarten, die mit einem Ball gespielt werden.",
+        "answer": "Basketball, Volleyball, Handball, Tennis, Tischtennis, Fußball, Golf, Badminton"
+    },
+    {
+        "category": "Sport",
+        "points": 300,
+        "text": "Eine Menschenpyramide bauen (und 3 Sekunden halten).",
+        "answer": "Eine Gruppe spielt"
+    },
+    {
+        "category": "Sport",
+        "points": 400,
+        "text": "Wie viele olympische Sportarten gibt es? (Sommer und Winterspiele zusammen)",
+        "answer": "41 im Sommer, 15 im Winter, d.h. 56"
+    },
+    {
+        "category": "Natur",
+        "points": 100,
+        "text": "Nenne drei Baumarten die keine Obstbäume sind.",
+        "answer": "Fichte, Kiefer, Buche, Eiche, Lärche, Tanne, Linde, Birke, Pappel, Weide, Ahorn, Esche"
+    },
+    {
+        "category": "Natur",
+        "points": 200,
+        "text": "Nenne 5 Tiere, die im Wasser leben (egal ob Süß- oder Salzwasser, auch Amphibien).",
+        "answer": ""
+    },
+    {
+        "category": "Natur",
+        "points": 300,
+        "text": "Nenne drei Obstsorten, die einen Stein als Kern haben.",
+        "answer": "Kirschen, Pflaumen, Aprikosen, Nektarinen, Zwetschgen, Oliven, Pfirsich, Avocado"
+    },
+    {
+        "category": "Natur",
+        "points": 400,
+        "text": "Spill: Wir nennen 5 oder mehr Tiere, und sie müssen uns sagen, wie deren Kinder heißen (z.B. Kuh - Kalb).",
+        "answer": ""
+    },
+    {
+        "category": "Natur",
+        "points": 500,
+        "text": "Spill: Bei dem sie mit verbundenen Augen Gegenstände ertasten müssen. Ein Joker!",
+        "answer": ""
+    },
+    {
+        "category": "Scouten",
+        "points": 200,
+        "text": "Schätzfrage: Wie viele Scouten gibt es in Luxemburg (FNEL und LGS)?",
+        "answer": "8.500 (5.500 LGS und 3.000 FNEL)"
+    },
+    {
+        "category": "Spill",
+        "points": 300,
+        "text": "Biergschong weitschießen. Die Gruppe, die am weitesten ihre Schuhe schießt, gewinnt.",
+        "answer": ""
+    },
+    {
+        "category": "Scouten",
+        "points": 400,
+        "text": "Wer ist BP? (Bonus: Wie heißt er mit richtigem Namen?)",
+        "answer": "Gründer der Boy Scouts, Sir Lord Robert Stephenson Smyth Baden-Powell"
+    },
+    {
+        "category": "Geographie a Geschicht",
+        "points": 100,
+        "text": "Nenne alle Länder, die an Luxemburg grenzen.",
+        "answer": "Deutschland, Frankreich, Belgien"
+    },
+    {
+        "category": "Geographie a Geschicht",
+        "points": 200,
+        "text": "Wie heißen die Höhlen unter der Stadt von Luxemburg?",
+        "answer": "Kasematten"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 300,
+        "text": "Wer ist Melusina und erzählt uns ihre Geschichte.",
+        "answer": ""
+    },
+    {
+        "category": "Geographie a Geschicht",
+        "points": 200,
+        "text": "Wie viele Kontinente gibt es, und nenne alle davon!",
+        "answer": "7, Antarktika, Australien, Afrika, Nordamerika, Südamerika, Eurasien"
+    },
+    {
+        "category": "Geographie a Geschicht",
+        "points": 500,
+        "text": "Stadt, Land, Fluss. Mit vorgegebenen Kategorien und einem vorgegebenen Buchstaben. Bis jemand alle Kategorien hat.",
+        "answer": ""
+    }
+        {
+        "category": "Lëtzebuerg",
+        "points": 100,
+        "text": "Wivill Tierm huet d'Kathedrale?",
+        "answer": "2(3)"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 200,
+        "text": "Ween huet Letzebuerg gegrennt?",
+        "answer": "Graf Siegfried"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 300,
+        "text": "Ween huet d'Schueberfouer gegrennt?",
+        "answer": "Jang de Blannen, 1340"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 400,
+        "text": "Wei heeschen dem Grand Duc Henri an dem Maria Terea hier Kanner?",
+        "answer": "Guillaume, Felix, Louis, Sebastian, Alexandra"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 500,
+        "text": "Wei heescht d'Platz an der Stadt wou de groussherzogleche Palais steht?",
+        "answer": "Krautmarkt, Rue du Marché aux herbes - Fischmarkt - Rindermarkt"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 600,
+        "text": "Wei huet Letzebuerg freier geheescht an wat bedeit dat Wuert?",
+        "answer": "Lucilinburhuc, kleng Buerg"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 700,
+        "text": "Wei gett eng Regioun aus dem Osten am Land nach genannt?",
+        "answer": "Rote Erde, Ösling, Kleine Schweiz (Mëllerdall)"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 800,
+        "text": "Sait wini ass Letzebuerg Member an der EU?",
+        "answer": "1958"
+    },
+    {
+        "category": "Lëtzebuerg",
+        "points": 900,
+        "text": "Laanscht weieen Floss stin ganz vill Wengerten?",
+        "answer": "Mousel"
+    }
 ]
